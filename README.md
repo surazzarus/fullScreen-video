@@ -1,3 +1,3 @@
 # fullScreen-video
 
-Full Screen Video sample for Webpage Landing page using CSS3.
+Full Screen Video sample for Website Landing page using CSS3.
